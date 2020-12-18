@@ -1,0 +1,1 @@
+{"version":3,"file":"jsonschema.d.ts","sourceRoot":"","sources":["../../src/models/jsonschema.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,aAAa,CAAC;AAE1C,MAAM,WAAW,gBAAiB,SAAQ,WAAW;IACjD,UAAU,CAAC,EAAE,MAAM,CAAC;CACvB"}

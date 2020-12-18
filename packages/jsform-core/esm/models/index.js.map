@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/models/index.ts"],"names":["JsFormJsonSchema","UiSchema"],"mappings":"AAAA,SAASA,gBAAT,QAAiC,cAAjC;AACA,SAASC,QAAT,QAAyB,YAAzB","sourcesContent":["export { JsFormJsonSchema } from \"./jsonschema\";\nexport { UiSchema } from \"./uischema\";"],"file":"index.js"}

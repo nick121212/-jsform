@@ -1,0 +1,15 @@
+{
+    "plugins": [
+        "transform-class-properties"
+    ],
+    "presets": [
+        "@babel/preset-typescript",
+        "@babel/preset-react",
+        [
+            "@babel/preset-env",
+            {
+                "modules": "umd"
+            }
+        ]
+    ]
+}
